@@ -8,7 +8,7 @@ export default function Login({ setStudent }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    fetch("/students.json")
+    fetch("/students.json"
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load data");
         return res.json();
