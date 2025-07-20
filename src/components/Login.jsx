@@ -8,7 +8,7 @@ export default function Login({ setStudent }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    fetch("/students.json"
+    fetch("/students.json")
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load data");
         return res.json();
@@ -23,7 +23,7 @@ export default function Login({ setStudent }) {
           setError("Invalid Student ID or password.");
         }
       })
-      .catch(() => setError("Something went wrong. Please try again."));
+      .catch(() => setError("Something went wrog. Please try again."));
   };
 
   return (
@@ -33,7 +33,7 @@ export default function Login({ setStudent }) {
         className="bg-white dark:bg-gray-900 shadow-xl rounded-2xl p-8 w-full max-w-md space-y-6"
       >
         <h1 className="text-4xl font-bold text-blue-500 dark:text-blue-400 text-center">
-          Find Your Codeline
+          Find Your Codelne
         </h1>
 
         <input
