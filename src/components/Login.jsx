@@ -20,7 +20,7 @@ export default function Login({ setStudent }) {
         if (found) {
           setStudent(found);
         } else {
-          setError("Invalid Student ID or Birthdate.");
+          setError("Invalid Student ID or password.");
         }
       })
       .catch(() => setError("Something went wrong. Please try again."));

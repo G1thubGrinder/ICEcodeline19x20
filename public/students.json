@@ -1,41 +1,1625 @@
 [
   {
+    "studentID": "6738038121",
+    "birthdate": "21032006",
+    "nickname": "Sea",
+    "codelines": [
+      {
+        "name": "Phet",
+        "favoriteFood": "My Steak",
+        "favoriteSnack": "Lava Cookie",
+        "favoriteDrink": "Nestle Water",
+        "hobby": "Physics, Listening to webnovel",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "phetcipher",
+        "instagram": "petphetpetch"
+      }
+    ]
+  },
+  {
+    "studentID": "6738128021",
+    "birthdate": "02052007",
+    "nickname": "Nike",
+    "codelines": [
+      {
+        "name": "Poohm",
+        "favoriteFood": "Japanese Curry",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Black Tea",
+        "hobby": "Exercise/Piano",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "poohm-maytid",
+        "instagram": "poohm_maytid"
+      }
+    ]
+  },
+  {
+    "studentID": "6738094221",
+    "birthdate": "02072005",
+    "nickname": "Cappi",
+    "codelines": [
+      {
+        "name": "Anuj",
+        "favoriteFood": "Pizza",
+        "favoriteSnack": "Lays",
+        "favoriteDrink": "Apple juice",
+        "hobby": "Football, Basketball, and playing games",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "anuj25732",
+        "instagram": "Chatriratna"
+      },
+      {
+        "name": "Kaka",
+        "favoriteFood": "Pasta",
+        "favoriteSnack": "Pocky",
+        "favoriteDrink": "Water",
+        "hobby": "Badminton",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "0892016251",
+        "instagram": "_kaka.ks"
+      }
+    ]
+  },
+  {
+    "studentID": "6738142721",
+    "birthdate": "26072006",
+    "nickname": "Nine",
+    "codelines": [
+      {
+        "name": "Kim",
+        "favoriteFood": "Tonkatsu",
+        "favoriteSnack": "Potato chips",
+        "favoriteDrink": "Tea",
+        "hobby": "Badminton",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "kimiphone38767",
+        "instagram": "natsagun"
+      }
+    ]
+  },
+  {
+    "studentID": "6738109021",
+    "birthdate": "26072024",
+    "nickname": "Lynn",
+    "codelines": [
+      {
+        "name": "Mund",
+        "favoriteFood": "Japanese food",
+        "favoriteSnack": "Lay",
+        "favoriteDrink": "Water",
+        "hobby": "Board games",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "mund2549",
+        "instagram": "pichayapatt"
+      }
+    ]
+  },
+  {
+    "studentID": "6738262321",
+    "birthdate": "16032006",
+    "nickname": "Vijay",
+    "codelines": [
+      {
+        "name": "Switch",
+        "favoriteFood": "Pizza",
+        "favoriteSnack": "หมึกกรุบ",
+        "favoriteDrink": "น้ำแดงHale's Blue Boy",
+        "hobby": "Art, Traveling, Honkai Star Rail",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "385805w1tch1sc00l",
+        "instagram": "@switchconfirmed"
+      }
+    ]
+  },
+  {
+    "studentID": "6738249221",
+    "birthdate": "27012006",
+    "nickname": "Jimmy",
+    "codelines": [
+      {
+        "name": "Fuse",
+        "favoriteFood": "Sushi",
+        "favoriteSnack": "หมึกกรุบสีส้ม",
+        "favoriteDrink": "Starbucks mango passion fruit / Coca Cola ชานมไข่มุก ชาไทย",
+        "hobby": "ว่ายน้ำ บอร์ดเกม",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "Yadafuse",
+        "instagram": "dyfuse"
+      }
+    ]
+  },
+  {
+    "studentID": "6738166821",
+    "birthdate": "07092006",
+    "nickname": "Hunza",
+    "codelines": [
+      {
+        "name": "Singsing",
+        "favoriteFood": "Pasta",
+        "favoriteSnack": "Banana chips",
+        "favoriteDrink": "Boost (Banana Buzz)",
+        "hobby": "Tennis",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "singchanita2",
+        "instagram": "ssingsings"
+      }
+    ]
+  },
+  {
+    "studentID": "6738203321",
+    "birthdate": "28092005",
+    "nickname": "Ice",
+    "codelines": [
+      {
+        "name": "Atom",
+        "favoriteFood": "Chicken Macaroni",
+        "favoriteSnack": "Dried Strawberries",
+        "favoriteDrink": "Chocolate/Cocoa",
+        "hobby": "Playing games, drawing, reading novels",
+        "specificPref": "Not really",
+        "nationality": "Thai",
+        "lineID": "atomic081",
+        "instagram": "Zappy_zap_zap"
+      }
+    ]
+  },
+  {
+    "studentID": "6738180521",
+    "birthdate": "26052006",
+    "nickname": "Hong",
+    "codelines": [
+      {
+        "name": "Mark",
+        "favoriteFood": "Ramen",
+        "favoriteSnack": "Seaweed",
+        "favoriteDrink": "Water",
+        "hobby": "Gaming",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "markpiyarug",
+        "instagram": ""
+      }
+    ]
+  },
+  {
+    "studentID": "6738104921",
+    "birthdate": "21012006",
+    "nickname": "Pharkfar",
+    "codelines": [
+      {
+        "name": "Aaron",
+        "favoriteFood": "Pad Thai",
+        "favoriteSnack": "7-11 butter bread",
+        "favoriteDrink": "Sprite :)",
+        "hobby": "Gaming( Valorant, Roblox etc.) Badminton",
+        "specificPref": "",
+        "nationality": "Myanmar",
+        "lineID": "1999009991",
+        "instagram": "artee_43"
+      }
+    ]
+  },
+  {
+    "studentID": "6738043221",
+    "birthdate": "17102006",
+    "nickname": "Mew",
+    "codelines": [
+      {
+        "name": "Sea",
+        "favoriteFood": "Fried Chicken",
+        "favoriteSnack": "Cornae, Turkish Delight",
+        "favoriteDrink": "Lemon Tea, Milk Tea, Earl Grey Tea",
+        "hobby": "Food, Vocaloid, Rhythm Games, Guitar",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "sorawitsea",
+        "instagram": "seasrw614"
+      }
+    ]
+  },
+  {
+    "studentID": "6738201021",
+    "birthdate": "17032006",
+    "nickname": "Hio",
+    "codelines": [
+      {
+        "name": "Gamm",
+        "favoriteFood": "Pasta",
+        "favoriteSnack": "Doughnut",
+        "favoriteDrink": "Fruit tea",
+        "hobby": "Playing sports",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "gammrinrada",
+        "instagram": "gaminrada"
+      }
+    ]
+  },
+  {
+    "studentID": "6738226821",
+    "birthdate": "12042006",
+    "nickname": "Fern",
+    "codelines": [
+      {
+        "name": "Inter",
+        "favoriteFood": "Sushi",
+        "favoriteSnack": "Chips",
+        "favoriteDrink": "Coke",
+        "hobby": "Movie",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "interpw",
+        "instagram": "Interprw"
+      }
+    ]
+  },
+  {
+    "studentID": "6738023721",
+    "birthdate": "26012006",
+    "nickname": "Guy",
+    "codelines": [
+      {
+        "name": "Ten",
+        "favoriteFood": "Sliced Beef",
+        "favoriteSnack": "Nuts",
+        "favoriteDrink": "Any unsweetened tea",
+        "hobby": "Music, Sport, Language",
+        "specificPref": "Any place everyone would enjoy eating as well as conversing.",
+        "nationality": "Thai",
+        "lineID": "supeten",
+        "instagram": "Yongyukantorn"
+      }
+    ]
+  },
+  {
+    "studentID": "6738165121",
+    "birthdate": "13072005",
+    "nickname": "Proud",
+    "codelines": [
+      {
+        "name": "Keng",
+        "favoriteFood": "แกงกะหรี่",
+        "favoriteSnack": "chocolate",
+        "favoriteDrink": "IPA, jager+gingerbeer",
+        "hobby": "playing and composing music",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "",
+        "instagram": "aroitae"
+      }
+    ]
+  },
+  {
+    "studentID": "6738173121",
+    "birthdate": "09082005",
+    "nickname": "Rarueng",
+    "codelines": [
+      {
+        "name": "Mark",
+        "favoriteFood": "Ramyeon (Buldak) /  Southern Thai Sour Curry",
+        "favoriteSnack": "Salty Seasoned Dried Seaweed",
+        "favoriteDrink": "Tansansu Soju Melon",
+        "hobby": "Kpop(enhypen) / Roblox",
+        "specificPref": "7-11 / supermarket?",
+        "nationality": "Thai",
+        "lineID": "",
+        "instagram": "markyz_o.zon.e"
+      }
+    ]
+  },
+  {
+    "studentID": "6738156521",
+    "birthdate": "08092005",
+    "nickname": "Tanny",
+    "codelines": [
+      {
+        "name": "Leefong",
+        "favoriteFood": "Its not about the food but the vibe",
+        "favoriteSnack": "Anything salty/savory(not picky)",
+        "favoriteDrink": "Matcha",
+        "hobby": "Gaming/sleeping/music",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "ichbinmein",
+        "instagram": "wine_fng"
+      }
+    ]
+  },
+  {
+    "studentID": "6738054121",
+    "birthdate": "19082005",
+    "nickname": "Am",
+    "codelines": [
+      {
+        "name": "Haady",
+        "favoriteFood": "Anything - I like them all",
+        "favoriteSnack": "Anything with chocolate",
+        "favoriteDrink": "ชาไทย 😋😋",
+        "hobby": "Sports/Games/Outdoor activities",
+        "specificPref": "Surprise me 🤩",
+        "nationality": "Thai",
+        "lineID": "haadybinabdullah",
+        "instagram": "Haadybnl"
+      }
+    ]
+  },
+  {
+    "studentID": "6738042621",
+    "birthdate": "09062006",
+    "nickname": "Nick",
+    "codelines": [
+      {
+        "name": "Pun",
+        "favoriteFood": "Ramen",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Matcha",
+        "hobby": "Gaming",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "ldgpuin",
+        "instagram": "puin_nithi"
+      }
+    ]
+  },
+  {
+    "studentID": "6738057021",
+    "birthdate": "25102005",
+    "nickname": "Z",
+    "codelines": [
+      {
+        "name": "Jasmin",
+        "favoriteFood": "sushiro",
+        "favoriteSnack": "shio pan, ป้อปคอนเมเจอร์รสชีสกับเค็ม,",
+        "favoriteDrink": "โยเกิร์ตโอริโอ้ yoguruto, ขาเขียวน้ำผึ้งมะนาวใส่บุกบราวชูก้าหวาน25% olino",
+        "hobby": "watch movies and youtube",
+        "specificPref": "i like cosmetics",
+        "nationality": "Thai",
+        "lineID": "jasminnlh",
+        "instagram": "jaasminlh"
+      }
+    ]
+  },
+  {
+    "studentID": "6738268121",
+    "birthdate": "09092005",
+    "nickname": "Kaoklong",
+    "codelines": [
+      {
+        "name": "Sirat",
+        "favoriteFood": "Pad Krapai not spicy 🫠",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Tea",
+        "hobby": "Guitar or rock music",
+        "specificPref": "video games!",
+        "nationality": "Thai and Belgian",
+        "lineID": "siratwets",
+        "instagram": "@fifthredondo"
+      }
+    ]
+  },
+  {
+    "studentID": "6738233121",
+    "birthdate": "09092006",
+    "nickname": "Warm",
+    "codelines": [
+      {
+        "name": "Phukao",
+        "favoriteFood": "Sushi Krapow anything kub",
+        "favoriteSnack": "Acai, fruits, ice cream",
+        "favoriteDrink": "Matcha frappucino",
+        "hobby": "Basketball and bass",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "pookao14022007",
+        "instagram": "Kao_bwoii"
+      }
+    ]
+  },
+  {
+    "studentID": "6738141021",
+    "birthdate": "09092006",
+    "nickname": "Pup",
+    "codelines": [
+      {
+        "name": "Nam",
+        "favoriteFood": "Shabu, Sushi, Malatang but I can’t handle spicy food (actually I’m good with anything😋)",
+        "favoriteSnack": "Fruits (but not durian), choco stuff, and cookies!",
+        "favoriteDrink": "matcha, strawberry smoothie",
+        "hobby": "Music, dancing, sometimes reading, and being tpop & kpop stans",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "nam_jitpinan",
+        "instagram": "my.usernam__"
+      }
+    ]
+  },
+  {
+    "studentID": "6738060921",
+    "birthdate": "16102005",
+    "nickname": "Azmi",
+    "codelines": [
+      {
+        "name": "Krit",
+        "favoriteFood": "Sushi",
+        "favoriteSnack": "Oreo",
+        "favoriteDrink": "Coke",
+        "hobby": "Badminton",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "kritkkrt",
+        "instagram": "kritkkrt"
+      }
+    ]
+  },
+  {
+    "studentID": "6738002521",
+    "birthdate": "06112006",
+    "nickname": "Maei",
+    "codelines": [
+      {
+        "name": "Hyun",
+        "favoriteFood": "Temaki sushi, Ringo Ame, Japanese food",
+        "favoriteSnack": "Nerds, Sour Patch",
+        "favoriteDrink": "Matcha, any kind of Tea",
+        "hobby": "Dining at Sushiro/Katsumidori",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "hyunsrr",
+        "instagram": "hyunsrr"
+      }
+    ]
+  },
+  {
+    "studentID": "6738172521",
+    "birthdate": "17102005",
+    "nickname": "Bon",
+    "codelines": [
+      {
+        "name": "Jai",
+        "favoriteFood": "Padkrapao khaidao",
+        "favoriteSnack": "Lays",
+        "favoriteDrink": "Boba tea",
+        "hobby": "Playing football",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "paulawish",
+        "instagram": "jai_paaul"
+      }
+    ]
+  },
+  {
+    "studentID": "6738163921",
+    "birthdate": "24082006",
+    "nickname": "Fronte",
+    "codelines": [
+      {
+        "name": "Wyn",
+        "favoriteFood": "anything that isnt spicy",
+        "favoriteSnack": "small chocolates or chips",
+        "favoriteDrink": "cold water",
+        "hobby": "drawing, coding my discord bot, valorant, minecraft, japanese songs, learning anything that's interesting",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "anawyn",
+        "instagram": "thatzenith"
+      }
+    ]
+  },
+  {
+    "studentID": "6738086221",
+    "birthdate": "13042006",
+    "nickname": "Phing",
+    "codelines": [
+      {
+        "name": "MJ",
+        "favoriteFood": "Burger, fried chicken",
+        "favoriteSnack": "Any",
+        "favoriteDrink": "Boost",
+        "hobby": "Play games, basketball",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "jephspokesman",
+        "instagram": "Jephspokesman"
+      }
+    ]
+  },
+  {
+    "studentID": "6738260021",
+    "birthdate": "10112005",
+    "nickname": "Chaiyo",
+    "codelines": [
+      {
+        "name": "Liz",
+        "favoriteFood": "ข้าวต้มหมูสับ",
+        "favoriteSnack": "chocolate",
+        "favoriteDrink": "matcha แฟนต้าแดง",
+        "hobby": "drawing/painting",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "lizirinraya123",
+        "instagram": "irnyys"
+      }
+    ]
+  },
+  {
+    "studentID": "6738139921",
+    "birthdate": "28122005",
+    "nickname": "Pran",
+    "codelines": [
+      {
+        "name": "Namphon",
+        "favoriteFood": "Sushi, mama tom yum goong, pork chop, pad thai, cheesecake, fried chicken, glass noodle salad",
+        "favoriteSnack": "Chocolate bars, pudding, marshmallows, taro fish snack, seaweed",
+        "favoriteDrink": "Thai tea, peach tea, coconut smoothie, mango macchiato, green tea",
+        "hobby": "Gaming(rov, identity v, hay day), reading manhwas, drawing, sleeping, listening to k-pop/indie music",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "namphons129",
+        "instagram": "nnaamphonn"
+      },
+      {
+        "name": "Oné",
+        "favoriteFood": "Ramen",
+        "favoriteSnack": "Chocolate, ice cream",
+        "favoriteDrink": "นมชมพู, นมปั่น",
+        "hobby": "Guitar, sleep, sports ",
+        "specificPref": "arai kor daiii",
+        "nationality": "Thai",
+        "lineID": "tawantwin",
+        "instagram": "kmltawan"
+      }
+    ]
+  },
+  {
+    "studentID": "6738152021",
+    "birthdate": "14092005",
+    "nickname": "Namo",
+    "codelines": [
+      {
+        "name": "Master",
+        "favoriteFood": "Salmon",
+        "favoriteSnack": "Churros",
+        "favoriteDrink": "Pink drink",
+        "hobby": "Dance cover",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "",
+        "instagram": "maspwdd"
+      }
+    ]
+  },
+  {
+    "studentID": "6738269821",
+    "birthdate": "22112006",
+    "nickname": "Rainy",
+    "codelines": [
+      {
+        "name": "Putter",
+        "favoriteFood": "ผัดกะเพรา",
+        "favoriteSnack": "Lays",
+        "favoriteDrink": "Coke",
+        "hobby": "Video games football",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "Putter2804",
+        "instagram": "Putter_sirasit"
+      }
+    ]
+  },
+  {
+    "studentID": "6738137621",
+    "birthdate": "04022007",
+    "nickname": "Pong",
+    "codelines": [
+      {
+        "name": "Talay",
+        "favoriteFood": "Steak",
+        "favoriteSnack": "Potato chips",
+        "favoriteDrink": "Coconut water",
+        "hobby": "Basketball, Guitar, shoes",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "waritp07",
+        "instagram": "talaywarit"
+      }
+    ]
+  },
+  {
+    "studentID": "6738025021",
+    "birthdate": "14102006",
+    "nickname": "Khoi",
+    "codelines": [
+      {
+        "name": "Snow",
+        "favoriteFood": "Egg",
+        "favoriteSnack": "Egg tart",
+        "favoriteDrink": "Hot bitter tea",
+        "hobby": "Exercising, watching movies/dramas, learning languages, organizing, reading novels",
+        "specificPref": "KFC egg tart, Chinese Jasmine tea",
+        "nationality": "Myanmar",
+        "lineID": "kyarphyu.poe",
+        "instagram": "poe.kyar.phyu"
+      }
+    ]
+  },
+  {
+    "studentID": "6738096521",
+    "birthdate": "27012006",
+    "nickname": "Mec",
+    "codelines": [
+      {
+        "name": "Title",
+        "favoriteFood": "Bacon",
+        "favoriteSnack": "Jelly",
+        "favoriteDrink": "Milk tea",
+        "hobby": "Reading, gaming",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "nonstopgggg",
+        "instagram": ""
+      }
+    ]
+  },
+  {
+    "studentID": "6738129621",
+    "birthdate": "05112005",
+    "nickname": "Pao",
+    "codelines": [
+      {
+        "name": "Tim",
+        "favoriteFood": "Steak",
+        "favoriteSnack": "Lay",
+        "favoriteDrink": "Sprite",
+        "hobby": "Gym",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "53100123457689",
+        "instagram": "__timtim___"
+      }
+    ]
+  },
+  {
+    "studentID": "6738162221",
+    "birthdate": "24052006",
+    "nickname": "Phut",
+    "codelines": [
+      {
+        "name": "Nano",
+        "favoriteFood": "beef steak",
+        "favoriteSnack": "ขนมชั้น",
+        "favoriteDrink": "malee 100% red grape juice",
+        "hobby": "google maps",
+        "specificPref": "not sure",
+        "nationality": "Thai",
+        "lineID": "navanano",
+        "instagram": ""
+      }
+    ]
+  },
+  {
+    "studentID": "6738033021",
+    "birthdate": "11112005",
+    "nickname": "Ji",
+    "codelines": [
+      {
+        "name": "Nut",
+        "favoriteFood": "Anything not scipy",
+        "favoriteSnack": "Lays",
+        "favoriteDrink": "นำ้เเดง",
+        "hobby": "Tennis, Valorant, music, swimming",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "nutqrcode",
+        "instagram": "_nut_tanut"
+      }
+    ]
+  },
+  {
+    "studentID": "6738048421",
+    "birthdate": "30102005",
+    "nickname": "Book",
+    "codelines": [
+      {
+        "name": "Kelly",
+        "favoriteFood": "Ramen",
+        "favoriteSnack": "Cheese major popcorn",
+        "favoriteDrink": "Milk tea",
+        "hobby": "Sports",
+        "specificPref": "Nose tea😍😍",
+        "nationality": "Thai",
+        "lineID": "kelran111",
+        "instagram": "mfkelran"
+      }
+    ]
+  },
+  {
+    "studentID": "6738152021",
+    "birthdate": "14092005",
+    "nickname": "Namo",
+    "codelines": [
+      {
+        "name": "Gop",
+        "favoriteFood": "Salmon",
+        "favoriteSnack": "Pringles",
+        "favoriteDrink": "non sweetened fruit teas",
+        "hobby": "Gaming 💀",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "noxy.xbox",
+        "instagram": "noxenberg"
+      }
+    ]
+  },
+  {
+    "studentID": "6738116421",
+    "birthdate": "28032006",
+    "nickname": "Theme",
+    "codelines": [
+      {
+        "name": "Yuki",
+        "favoriteFood": "Thai food",
+        "favoriteSnack": "chocolate",
+        "favoriteDrink": "water",
+        "hobby": "Drawing/Travelling",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "jin_ii",
+        "instagram": "vatanya_yuki"
+      }
+    ]
+  },
+  {
+    "studentID": "6738102621",
+    "birthdate": "06092005",
+    "nickname": "Ryu",
+    "codelines": [
+      {
+        "name": "Max",
+        "favoriteFood": "คอหมูย่าง",
+        "favoriteSnack": "ป้อกกี้รสช็อกโกแลต",
+        "favoriteDrink": "น้ำส้ม",
+        "hobby": "เล่นเกม",
+        "specificPref": "ไม่มีครับ",
+        "nationality": "Thai",
+        "lineID": "chio.maximus",
+        "instagram": "maxzaa"
+      }
+    ]
+  },
+  {
+    "studentID": "6738108421",
+    "birthdate": "24042006",
+    "nickname": "Khao Hom",
+    "codelines": [
+      {
+        "name": "Top",
+        "favoriteFood": "Anythings ที่ไม่เผ็ด เอาที่พี่ชอบ",
+        "favoriteSnack": "Idk อะไรก้ได้อร่อยๆ",
+        "favoriteDrink": "Mainly Water, or strawberry milkshake",
+        "hobby": "A lot, like listening/playing to rock music, coding, painting,  carving, crocheting, making youtube,  and others",
+        "specificPref": "What dat mean",
+        "nationality": "Thai",
+        "lineID": "top48361",
+        "instagram": "Sippapas_top"
+      }
+    ]
+  },
+  {
+    "studentID": "6738124421",
+    "birthdate": "01112005",
+    "nickname": "Pun",
+    "codelines": [
+      {
+        "name": "Pang",
+        "favoriteFood": "sushi",
+        "favoriteSnack": "ice cream",
+        "favoriteDrink": "coke",
+        "hobby": "football",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "Pang19504",
+        "instagram": "Pang_papon"
+      }
+    ]
+  },
+  {
+    "studentID": "6738240521",
+    "birthdate": "26112005",
+    "nickname": "Niner",
+    "codelines": [
+      {
+        "name": "Tao",
+        "favoriteFood": "Pad kaprao",
+        "favoriteSnack": "Chocalate / jelly / lays",
+        "favoriteDrink": "Matcha🍵",
+        "hobby": "Singing / playing guitar",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "krittaphas49",
+        "instagram": "t.krittaphas"
+      }
+    ]
+  },
+  {
+    "studentID": "6738095921",
+    "birthdate": "28042006",
+    "nickname": "Temp",
+    "codelines": [
+      {
+        "name": "Gino",
+        "favoriteFood": "pizza",
+        "favoriteSnack": "nutella biscuits",
+        "favoriteDrink": "pepsi",
+        "hobby": "football",
+        "specificPref": "domino",
+        "nationality": "Thai",
+        "lineID": "gino38911",
+        "instagram": "gg1no_"
+      }
+    ]
+  },
+  {
+    "studentID": "6738006021",
+    "birthdate": "09092005",
+    "nickname": "Hope",
+    "codelines": [
+      {
+        "name": "Win",
+        "favoriteFood": "ลาบหมู",
+        "favoriteSnack": "ขนมกรุบกรอบ",
+        "favoriteDrink": "chocolate",
+        "hobby": "gaming, exercise, music (very niche)",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "winpannawich",
+        "instagram": ""
+      }
+    ]
+  },
+  {
+    "studentID": "6738029521",
+    "birthdate": "11112005",
+    "nickname": "Fah",
+    "codelines": [
+      {
+        "name": "Yam",
+        "favoriteFood": "Salmon",
+        "favoriteSnack": "Matcha",
+        "favoriteDrink": "Matcha",
+        "hobby": "Bass / badminton",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "yamyam5005",
+        "instagram": "gapowoo"
+      }
+    ]
+  },
+  {
+    "studentID": "6738124421",
+    "birthdate": "01112005",
+    "nickname": "Pun",
+    "codelines": [
+      {
+        "name": "Joe",
+        "favoriteFood": "Udon",
+        "favoriteSnack": "Chips",
+        "favoriteDrink": "Milk tea",
+        "hobby": "Football/Basketball",
+        "specificPref": "Nose Tea",
+        "nationality": "Thai",
+        "lineID": "tanakorn_joe",
+        "instagram": "_joee._._"
+      }
+    ]
+  },
+  {
+    "studentID": "6738188621",
+    "birthdate": "03012006",
+    "nickname": "Peace",
+    "codelines": [
+      {
+        "name": "JR",
+        "favoriteFood": "Sushi",
+        "favoriteSnack": "Lays original",
+        "favoriteDrink": "Fiji water",
+        "hobby": "Cars",
+        "specificPref": "Porsche Thailand",
+        "nationality": "Thai",
+        "lineID": "chaichate",
+        "instagram": "jr.chaichate"
+      }
+    ]
+  },
+  {
+    "studentID": "6738236021",
+    "birthdate": "23012005",
+    "nickname": "Winwin",
+    "codelines": [
+      {
+        "name": "Ging",
+        "favoriteFood": "Anything",
+        "favoriteSnack": "Anything",
+        "favoriteDrink": "Anyhting",
+        "hobby": "Anything",
+        "specificPref": "🤷‍♂️",
+        "nationality": "Thai",
+        "lineID": "@redkunggm",
+        "instagram": "ging.gif"
+      }
+    ]
+  },
+  {
+    "studentID": "6738067321",
+    "birthdate": "02062006",
+    "nickname": "Pro",
+    "codelines": [
+      {
+        "name": "Touch",
+        "favoriteFood": "pizza (hawaiian)",
+        "favoriteSnack": "chocolate (any kind is ok but specifically hersheys)",
+        "favoriteDrink": "oishi yellow",
+        "hobby": "ice hockey",
+        "specificPref": "",
+        "nationality": "thai",
+        "lineID": "bhutouch",
+        "instagram": "t.tnch55"
+      }
+    ]
+  },
+  {
+    "studentID": "6738082721",
+    "birthdate": "29012006",
+    "nickname": "Prae",
+    "codelines": [
+      {
+        "name": "Blink",
+        "favoriteFood": "Chicken rice",
+        "favoriteSnack": "Preferably something not crispy and sticky",
+        "favoriteDrink": "Anything sweet really",
+        "hobby": "Games, music, sport",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "632543556",
+        "instagram": "krytt_ii"
+      }
+    ]
+  },
+  {
+    "studentID": "6738231921",
+    "birthdate": "13062006",
+    "nickname": "Tadashi",
+    "codelines": [
+      {
+        "name": "Disney",
+        "favoriteFood": "โมโม่",
+        "favoriteSnack": "โอริโอ้",
+        "favoriteDrink": "เเรปเต้อคามู",
+        "hobby": "เล่นเกม",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "disney11959",
+        "instagram": "disney_panyawat"
+      }
+    ]
+  },
+  {
     "studentID": "6738133021",
     "birthdate": "14102005",
     "nickname": "P",
     "codelines": [
       {
-        "name": "Hom",
-        "favoriteFood": "",
-        "favoriteSnack": "cookies",
-        "favoriteDrink": "vanilla latte",
-        "hobby": "Exercising",
-        "specificPref": "Damn",
-        "nationality" : "Thai",
-        "lineID" : "brazil999"
+        "name": "Ice",
+        "favoriteFood": "Japanese food",
+        "favoriteSnack": "",
+        "favoriteDrink": "Sprite",
+        "hobby": "Video games, basketball, calisthenics",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "patsakorn1235",
+        "instagram": "ice.patsakorn"
       }
     ]
   },
   {
-    "studentID": "65010001",
-    "birthdate": "01012005",
-    "nickname": "Somchai Jaidee",
+    "studentID": "6738110621",
+    "birthdate": "06122005",
+    "nickname": "Nano",
     "codelines": [
       {
-        "name": "Sopida Yingyai",
-        "favoriteFood": "Pad Thai",
-        "favoriteSnack": "Seaweed",
-        "favoriteDrink": "Green Tea",
-        "hobby": "Drawing",
-        "specificPref": "Likes cats"
-      },
+        "name": "Fourth",
+        "favoriteFood": "สามชั้นคั่วพริกเกลือ",
+        "favoriteSnack": "popcorn, chips",
+        "favoriteDrink": "coke, water",
+        "hobby": "music",
+        "specificPref": "mai me krub",
+        "nationality": "Thai",
+        "lineID": "fourth25",
+        "instagram": "fourth4th_"
+      }
+    ]
+  },
+  {
+    "studentID": "6738099421",
+    "birthdate": "29052006",
+    "nickname": "Ken",
+    "codelines": [
       {
-        "name": "Anan Chonlatee",
-        "favoriteFood": "Ramen",
-        "favoriteSnack": "Pocky",
-        "favoriteDrink": "Coffee",
-        "hobby": "Gaming",
-        "specificPref": "Prefers dark theme"
+        "name": "Hom",
+        "favoriteFood": "tonkatsu",
+        "favoriteSnack": "cookies",
+        "favoriteDrink": "vanilla latte",
+        "hobby": "games",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "homisdabest",
+        "instagram": "schommler"
+      }
+    ]
+  },
+  {
+    "studentID": "6738076021",
+    "birthdate": "26122005",
+    "nickname": "Nod",
+    "codelines": [
+      {
+        "name": "Smith",
+        "favoriteFood": "Krapao kaidaw",
+        "favoriteSnack": "Cheetos",
+        "favoriteDrink": "Oishi",
+        "hobby": "Basketball/boardgame",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "supolthit_35655",
+        "instagram": "smith._i"
+      }
+    ]
+  },
+  {
+    "studentID": "6738093621",
+    "birthdate": "28082004",
+    "nickname": "Daniel",
+    "codelines": [
+      {
+        "name": "Pat",
+        "favoriteFood": "",
+        "favoriteSnack": "",
+        "favoriteDrink": "water",
+        "hobby": "basketball",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "",
+        "instagram": "pvejchakul"
+      }
+    ]
+  },
+  {
+    "studentID": "6738210721",
+    "birthdate": "21102005",
+    "nickname": "Sunn",
+    "codelines": [
+      {
+        "name": "Mick",
+        "favoriteFood": "A nice sandwich",
+        "favoriteSnack": "Salted Chips",
+        "favoriteDrink": "Sparkling water, Cold press juices",
+        "hobby": "Football, Classical Music",
+        "specificPref": "Bartels",
+        "nationality": "Thai",
+        "lineID": "mickpuff",
+        "instagram": "mickpufff"
+      }
+    ]
+  },
+  {
+    "studentID": "6738021421",
+    "birthdate": "18082006",
+    "nickname": "TangTang",
+    "codelines": [
+      {
+        "name": "Bua",
+        "favoriteFood": "บะหมี่แห้งไม่ตับไม่งอกไม่พริก / salmon / Japanese curry rice",
+        "favoriteSnack": "Bourbon Alfort Chocolate Biscuit / Stikko milk vanilla / Toblerone",
+        "favoriteDrink": "Water / Milk / Cocoa / ชาไทย (ชาตรามือ)",
+        "hobby": "Music, board games, movies, performances",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "nicha0206_r",
+        "instagram": "bor.bua"
+      }
+    ]
+  },
+  {
+    "studentID": "6738103221",
+    "birthdate": "14062005",
+    "nickname": "BooBoo",
+    "codelines": [
+      {
+        "name": "Natcha",
+        "favoriteFood": "Korean fried chicken or Butadon",
+        "favoriteSnack": "Gummies or Macaron",
+        "favoriteDrink": "Matcha or Bubble tea",
+        "hobby": "sleeping, playing games, bicycling",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "spnatcha",
+        "instagram": "nnatcha.sp"
+      }
+    ]
+  },
+  {
+    "studentID": "6738065021",
+    "birthdate": "15022003",
+    "nickname": "Sai",
+    "codelines": [
+      {
+        "name": "Apae",
+        "favoriteFood": "Spaghetti",
+        "favoriteSnack": "lays, chocolate",
+        "favoriteDrink": "chocolate",
+        "hobby": "gaming, eating, sleeping",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "615915463",
+        "instagram": "Apae.isara"
+      }
+    ]
+  },
+  {
+    "studentID": "6738160021",
+    "birthdate": "29092006",
+    "nickname": "Art",
+    "codelines": [
+      {
+        "name": "Philips",
+        "favoriteFood": "Sushi",
+        "favoriteSnack": "French fries",
+        "favoriteDrink": "Iced black tea",
+        "hobby": "Piano",
+        "specificPref": "",
+        "nationality": "Chinese",
+        "lineID": "junxianpwpw",
+        "instagram": "philips.jx"
+      }
+    ]
+  },
+  {
+    "studentID": "6738004821",
+    "birthdate": "12122005",
+    "nickname": "Boom",
+    "codelines": [
+      {
+        "name": "Kevin",
+        "favoriteFood": "Noodles/Ramen",
+        "favoriteSnack": "",
+        "favoriteDrink": "Tea/Coffee/Matcha",
+        "hobby": "Film Photography, Sports",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "kevinpkc",
+        "instagram": "_kvnpk"
+      }
+    ]
+  },
+  {
+    "studentID": "6738215921",
+    "birthdate": "02012006",
+    "nickname": "Tae",
+    "codelines": [
+      {
+        "name": "Monai",
+        "favoriteFood": "ข้าวหมกไก่",
+        "favoriteSnack": "เลย์",
+        "favoriteDrink": "น้ำเปล่า",
+        "hobby": "หมากรุก",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "",
+        "instagram": "riemannian_manifolds"
+      }
+    ]
+  },
+  {
+    "studentID": "6738209121",
+    "birthdate": "13072006",
+    "nickname": "Sand",
+    "codelines": [
+      {
+        "name": "Best",
+        "favoriteFood": "Pizza",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Pepsi",
+        "hobby": "Game",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "sbestbsupreme",
+        "instagram": "watthanaphat_best"
+      }
+    ]
+  },
+  {
+    "studentID": "6738174821",
+    "birthdate": "30082006",
+    "nickname": "Ping",
+    "codelines": [
+      {
+        "name": "Phu",
+        "favoriteFood": "Mala hotpot",
+        "favoriteSnack": "Biscoff",
+        "favoriteDrink": "Strawberry lemonade acai starbucks",
+        "hobby": "Basketball",
+        "specificPref": "Nike",
+        "nationality": "Thai",
+        "lineID": "chawit25623",
+        "instagram": "measphu"
+      }
+    ]
+  },
+  {
+    "studentID": "6738199521",
+    "birthdate": "09102005",
+    "nickname": "Bham",
+    "codelines": [
+      {
+        "name": "Achi",
+        "favoriteFood": "Spaghetti",
+        "favoriteSnack": "Uhhhh lays?",
+        "favoriteDrink": "Water",
+        "hobby": "Drumming or gaming",
+        "specificPref": "Somewhere thats a store",
+        "nationality": "Thai",
+        "lineID": "mrachiral",
+        "instagram": "mrachiral"
+      }
+    ]
+  },
+  {
+    "studentID": "6738160021",
+    "birthdate": "29092006",
+    "nickname": "Art",
+    "codelines": [
+      {
+        "name": "Deno",
+        "favoriteFood": "Salmon, Shabu, Mookrata",
+        "favoriteSnack": "หมึกกรุบ",
+        "favoriteDrink": "Beer",
+        "hobby": "badminton",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "songpolgeno",
+        "instagram": "_marshzhy"
+      }
+    ]
+  },
+  {
+    "studentID": "6738032321",
+    "birthdate": "30062006",
+    "nickname": "Jinni",
+    "codelines": [
+      {
+        "name": "Anton",
+        "favoriteFood": "Rice😭",
+        "favoriteSnack": "Chips, fried chicken",
+        "favoriteDrink": "Boba🧋",
+        "hobby": "Reading, Music",
+        "specificPref": "",
+        "nationality": "Myanmar",
+        "lineID": "anton_1_1",
+        "instagram": "_nyi_lynn"
+      }
+    ]
+  },
+  {
+    "studentID": "6738283521",
+    "birthdate": "16092005",
+    "nickname": "Kati",
+    "codelines": [
+      {
+        "name": "Trophy",
+        "favoriteFood": "fried chicken",
+        "favoriteSnack": "chicken nuggets",
+        "favoriteDrink": "tea",
+        "hobby": "music ,football",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "trophyisme",
+        "instagram": "auxi_trophy"
+      }
+    ]
+  },
+  {
+    "studentID": "6738253721",
+    "birthdate": "11032006",
+    "nickname": "Gam",
+    "codelines": [
+      {
+        "name": "Bonus",
+        "favoriteFood": "everything, except veggies :)",
+        "favoriteSnack": "Jelly",
+        "favoriteDrink": "Tea",
+        "hobby": "Sleeping, playing games, and hanging out",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "824691860",
+        "instagram": "p.phooo"
+      }
+    ]
+  },
+  {
+    "studentID": "6738196621",
+    "birthdate": "24052006",
+    "nickname": "Pete",
+    "codelines": [
+      {
+        "name": "Music",
+        "favoriteFood": "French fries",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Coke",
+        "hobby": "Reading",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "music2112",
+        "instagram": "m.mmusic"
+      }
+    ]
+  },
+  {
+    "studentID": "6738270321",
+    "birthdate": "04062007",
+    "nickname": "Mangpor",
+    "codelines": [
+      {
+        "name": "Beta",
+        "favoriteFood": "หมูกรอบคั่วพริกเกลือ",
+        "favoriteSnack": "Dubai chocolatte, pistachio",
+        "favoriteDrink": "Matcha bubble tea (25% sweetness)",
+        "hobby": "Piano,violin,guitar,basketball,singing",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "Betabaymax",
+        "instagram": "Betvnwn"
+      }
+    ]
+  },
+  {
+    "studentID": "6738105521",
+    "birthdate": "16072024",
+    "nickname": "Non",
+    "codelines": [
+      {
+        "name": "Anda",
+        "favoriteFood": "carbonara",
+        "favoriteSnack": "cheesecake",
+        "favoriteDrink": "chocolate",
+        "hobby": "playing sports, golfing",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "andachutirada",
+        "instagram": "andachutirada"
+      }
+    ]
+  },
+  {
+    "studentID": "6738263021",
+    "birthdate": "24082006",
+    "nickname": "Pleang",
+    "codelines": [
+      {
+        "name": "Pat",
+        "favoriteFood": "Krapow Moogrob and any Japanese foods",
+        "favoriteSnack": "Potato chip , Chocolate",
+        "favoriteDrink": "Matcha Green tea , Thai tea",
+        "hobby": "Football , Formula 1 , music",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "080957qw",
+        "instagram": "khptptd"
+      }
+    ]
+  },
+  {
+    "studentID": "6738195021",
+    "birthdate": "23092006",
+    "nickname": "Chain",
+    "codelines": [
+      {
+        "name": "Punn",
+        "favoriteFood": "French fries",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Blue Hawaii",
+        "hobby": "Computer games",
+        "specificPref": "Sorry no",
+        "nationality": "Thai",
+        "lineID": "punn2750",
+        "instagram": "protonfat69"
+      }
+    ]
+  },
+  {
+    "studentID": "6738091321",
+    "birthdate": "19072006",
+    "nickname": "ToA",
+    "codelines": [
+      {
+        "name": "Jaguar",
+        "favoriteFood": "Japanese curry",
+        "favoriteSnack": "scone",
+        "favoriteDrink": "water",
+        "hobby": "music",
+        "specificPref": "No",
+        "nationality": "Thai",
+        "lineID": "kitiphum5954",
+        "instagram": "kitiphum5954"
+      }
+    ]
+  },
+  {
+    "studentID": "6738027221",
+    "birthdate": "25082005",
+    "nickname": "Kong",
+    "codelines": [
+      {
+        "name": "Green",
+        "favoriteFood": "Spaghetti and Pizza",
+        "favoriteSnack": "Jelly and French Fries",
+        "favoriteDrink": "Pocari Sweat, Drinks Water and Chrysanthemum tea",
+        "hobby": "Drums and Golf",
+        "specificPref": "Spaghetti Factory",
+        "nationality": "Thai",
+        "lineID": "greennathat",
+        "instagram": "green_nathat"
+      }
+    ]
+  },
+  {
+    "studentID": "6738090721",
+    "birthdate": "27112006",
+    "nickname": "Minnie",
+    "codelines": [
+      {
+        "name": "Fahjung",
+        "favoriteFood": "Any noodles that are not spicy 🍜",
+        "favoriteSnack": "Chocolate",
+        "favoriteDrink": "Cocoa or fruit tea",
+        "hobby": "Music&musical, minecraft, animal crossing",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "fahjung24052550",
+        "instagram": "ffahjung.gch"
+      }
+    ]
+  },
+  {
+    "studentID": "6738106121",
+    "birthdate": "11042005",
+    "nickname": "Beam",
+    "codelines": [
+      {
+        "name": "Mook",
+        "favoriteFood": "Pasta",
+        "favoriteSnack": "Jelly",
+        "favoriteDrink": "",
+        "hobby": "Tennis, table tennis, drums",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "962969939",
+        "instagram": "favperpearl"
+      }
+    ]
+  },
+  {
+    "studentID": "6738242821",
+    "birthdate": "01022006",
+    "nickname": "Model",
+    "codelines": [
+      {
+        "name": "Title",
+        "favoriteFood": "Fried chicken",
+        "favoriteSnack": "French fries",
+        "favoriteDrink": "Coke",
+        "hobby": "Playing music",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "sippitit50",
+        "instagram": "title.sp_"
+      }
+    ]
+  },
+  {
+    "studentID": "6738045521",
+    "birthdate": "05032006",
+    "nickname": "Nob",
+    "codelines": [
+      {
+        "name": "Itim",
+        "favoriteFood": "Shabu",
+        "favoriteSnack": "Cookies/brownies",
+        "favoriteDrink": "Milk tea/matcha 🍵",
+        "hobby": "Badminton",
+        "specificPref": "drinks 50% sweet onlyy",
+        "nationality": "Thai",
+        "lineID": "itimmanman",
+        "instagram": "iitimm_n"
+      }
+    ]
+  },
+  {
+    "studentID": "6738117021",
+    "birthdate": "04062006",
+    "nickname": "Pluem",
+    "codelines": [
+      {
+        "name": "Pond",
+        "favoriteFood": "หมูกระทะ",
+        "favoriteSnack": "Cream brulee ice cream",
+        "favoriteDrink": "Pocari",
+        "hobby": "Golf",
+        "specificPref": "Thaniya mall",
+        "nationality": "Thai",
+        "lineID": "1441657",
+        "instagram": "pondwong"
+      }
+    ]
+  },
+  {
+    "studentID": "6738035221",
+    "birthdate": "13122006",
+    "nickname": "Tonnam",
+    "codelines": [
+      {
+        "name": "Veer",
+        "favoriteFood": "Japanese Curry",
+        "favoriteSnack": "Lays",
+        "favoriteDrink": "Juice",
+        "hobby": "",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "veerkonoha",
+        "instagram": "veer._.jrp"
+      }
+    ]
+  },
+  {
+    "studentID": "6738248621",
+    "birthdate": "12082005",
+    "nickname": "Im",
+    "codelines": [
+      {
+        "name": "Yiheng",
+        "favoriteFood": "Steak",
+        "favoriteSnack": "Karamujo potato chips",
+        "favoriteDrink": "Bubble tea (Cantaloupe flavor)",
+        "hobby": "Games, creating games",
+        "specificPref": "",
+        "nationality": "Chinese",
+        "lineID": "ghiui666",
+        "instagram": "ghiui666"
+      }
+    ]
+  },
+  {
+    "studentID": "6738183421",
+    "birthdate": "22072006",
+    "nickname": "Prim",
+    "codelines": [
+      {
+        "name": "Jui",
+        "favoriteFood": "หม่าล่า",
+        "favoriteSnack": "Brownies , Haribo",
+        "favoriteDrink": "Boba",
+        "hobby": "Sports, movies, games",
+        "specificPref": "Oncloud, donki",
+        "nationality": "Thai",
+        "lineID": "615542516",
+        "instagram": "nnnaphan"
       }
     ]
   }

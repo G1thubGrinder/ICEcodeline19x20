@@ -12,7 +12,7 @@ export default function App() {
     setTimeout(() => {
       setStudent(data);
       setLoading(false);
-    }, 750); // simulate loading delay
+    }, 500);
   };
 
   const goBack = () => setStudent(null);
