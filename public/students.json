@@ -1,0 +1,42 @@
+[
+  {
+    "studentID": "6738133021",
+    "birthdate": "14102005",
+    "nickname": "P",
+    "codelines": [
+      {
+        "name": "Hom",
+        "favoriteFood": "",
+        "favoriteSnack": "cookies",
+        "favoriteDrink": "vanilla latte",
+        "hobby": "Exercising",
+        "specificPref": "Damn",
+        "nationality" : "Thai",
+        "lineID" : "brazil999"
+      }
+    ]
+  },
+  {
+    "studentID": "65010001",
+    "birthdate": "01012005",
+    "nickname": "Somchai Jaidee",
+    "codelines": [
+      {
+        "name": "Sopida Yingyai",
+        "favoriteFood": "Pad Thai",
+        "favoriteSnack": "Seaweed",
+        "favoriteDrink": "Green Tea",
+        "hobby": "Drawing",
+        "specificPref": "Likes cats"
+      },
+      {
+        "name": "Anan Chonlatee",
+        "favoriteFood": "Ramen",
+        "favoriteSnack": "Pocky",
+        "favoriteDrink": "Coffee",
+        "hobby": "Gaming",
+        "specificPref": "Prefers dark theme"
+      }
+    ]
+  }
+]
