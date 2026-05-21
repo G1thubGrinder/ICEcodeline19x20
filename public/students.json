@@ -1,0 +1,49 @@
+[
+  {
+    "studentID": "6712345678",
+    "birthdate": "01012001",
+    "nickname": "Git",
+    "codelines": [
+      {
+        "name": "Hub",
+        "favoriteFood": "Pizza",
+        "favoriteSnack": "Lays",
+        "favoriteDrink": "Matcha Latte",
+        "hobby": "Playing Game",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "hubhubhub",
+        "instagram": "hhhuuubbb"
+      }
+    ]
+  },
+  {
+    "studentID": "6787654321",
+    "birthdate": "02022002",
+    "nickname": "Test",
+    "codelines": [
+      {
+        "name": "CodeOne",
+        "favoriteFood": "Fried Chicken with sticky rice",
+        "favoriteSnack": "Ferrero Rocher",
+        "favoriteDrink": "Apple juice",
+        "hobby": "Football, Basketball, and playing games",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "ONEONEONE",
+        "instagram": "OOONNNEEE"
+      },
+      {
+        "name": "CodeTwo",
+        "favoriteFood": "Pasta",
+        "favoriteSnack": "Pocky",
+        "favoriteDrink": "Coffee",
+        "hobby": "Badminton",
+        "specificPref": "",
+        "nationality": "Thai",
+        "lineID": "TWOTWOTWO",
+        "instagram": "TTTWWWOOO"
+      }
+    ]
+  }
+]
